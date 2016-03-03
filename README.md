@@ -18,6 +18,6 @@ iOSMixedProgrammingDemo是一个iOS上多语言混编的Demo
 
 
 
-## 版权声明
+## 协议
 
-DDRentCarBusiness 是滴滴内部项目，默认不对外开源，请不要传播。
+iOSMixedProgrammingDemo 被许可在 MIT 协议下使用,查阅 LICENSE 文件来获得更多信息。
