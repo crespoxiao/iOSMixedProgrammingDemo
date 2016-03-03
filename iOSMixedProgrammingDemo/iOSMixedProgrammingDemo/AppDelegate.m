@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  iOSMixedProgrammingDemo
 //
-//  Created by xiaochengfei on 16/3/3.
-//  Copyright © 2016年 Didi.Inc. All rights reserved.
+//  Created by CrespoXiao on 16/3/3.
+//  Copyright © 2016年 CP. All rights reserved.
 //
 
 #import "AppDelegate.h"

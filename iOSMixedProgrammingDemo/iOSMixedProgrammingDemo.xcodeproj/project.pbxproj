@@ -130,8 +130,9 @@
 		E4D9AA2B1C8831AA00998350 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = CP;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = Didi.Inc;
+				ORGANIZATIONNAME = CP;
 				TargetAttributes = {
 					E4D9AA321C8831AB00998350 = {
 						CreatedOnToolsVersion = 7.2.1;
